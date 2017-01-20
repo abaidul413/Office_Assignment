@@ -77,7 +77,7 @@ Then, Browsing the following url,
    
    You can see the All job in home page those jobs are approve from moderation board
    
-  ###### You can Edit And Delete Your job 
+  ######You can Edit And Delete Your job 
   
   You can see Bar Chart of how many job posted in Last six month
   
