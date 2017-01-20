@@ -20,7 +20,7 @@
 <body>
 
 <!-- Title -->
-<h1 style="text-align:center;">Pie Graph Example </h1>
+<h1 style="text-align:center;">Pie Graph For Approve and Spam of jobs rating </h1>
 
 <!-- Info -->
 <p><strong>Created by: </strong>Abir</p>
